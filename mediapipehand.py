@@ -1,3 +1,7 @@
+'''
+Mostly copied from mediapipe hand sample code.
+'''
+
 import cv2
 import mediapipe as mp
 from mouse import Mouse
